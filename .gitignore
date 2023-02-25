@@ -1,12 +1,12 @@
 target/
+allure/
+allure-results/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
 .idea/
-./allure-results/
-./.allure/*
 *.iws
 *.iml
 *.ipr
